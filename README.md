@@ -16,7 +16,7 @@
 ## 📫 Connect with Me
 - 🎮 **Discord:** 65K5
 - 🔵 **Telegram:** [cmwa124P](https://t.me/cmwa124P)
-- 🌐 **Website:** [guns.lol/124P](https://guns.lol/124P)
+- 🌐 **gunslol:** [guns.lol/124P](https://guns.lol/124P)
 
 ---
 _"Code. Debug. Improve. Repeat."_
