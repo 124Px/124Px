@@ -11,12 +11,12 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## 📊 GitHub Stats
-![124P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=124P&show_icons=true&theme=tokyonight)
+![124P's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=124P&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=124P&show_icons=true&theme=tokyonight))
 
 ## 📫 Connect with Me
 - 🎮 **Discord:** 65K5
 - 🔵 **Telegram:** [cmwa124P](https://t.me/cmwa124P)
-- 🌐 **gunslol:** [guns.lol/124P](https://guns.lol/124P)
+- 🌐 **guns.lol:** [guns.lol/124P](https://guns.lol/124P)
 
 ---
 _"Code. Debug. Improve. Repeat."_
