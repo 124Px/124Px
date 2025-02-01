@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## 📊 GitHub Stats
-![124P's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=124P&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=124P&show_icons=true&theme=tokyonight))
+![124P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=124P&show_icons=true&theme=radical&bg_color=000000&hide_title=true)
 
 ## 📫 Connect with Me
 - 🎮 **Discord:** 65K5
