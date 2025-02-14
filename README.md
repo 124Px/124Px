@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=124Px&layout=compact&theme=radical&bg_color=000000)
 
 ## 👯‍👥 Connect with Me
-- 🎮 **Discord:** 65K5
+- 🎮 **Discord:** [124P](https://discord.com/users/1308757074028531823)
 - 🔵 **Telegram:** [cmwa124P](https://t.me/cmwa124P)
 - 🌐 **guns.lol:** [guns.lol/124P](https://guns.lol/124P)
 
