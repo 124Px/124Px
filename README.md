@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=124Px&layout=compact&theme=radical&bg_color=000000)
 
 ## 👯‍👥 Connect with Me
-- 🎮 **Discord:** 124.p (1324432951991078932)
+- 🎮 **Discord:** 124.p
 - 🌐 **guns.lol:** [guns.lol/124P](https://guns.lol/124P)
 
 ---
