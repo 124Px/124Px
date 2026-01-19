@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 Student, passionate about coding & learning new things.
-- 💻 Mainly working with **Python, C++, and C#**.
+- 💻 Mainly working with **Python, html, lua, and C#**.
 - 🏆 Always looking to improve and build cool projects.
 
 ## 💡 Programming Languages
